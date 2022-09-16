@@ -194,6 +194,7 @@ Buttons
   cursor: pointer;
 }
 .btn-container button:disabled {
+  background: var(--clr-primary-9);
   cursor: not-allowed;
 }
 
